@@ -1,0 +1,40 @@
+#+TITLE: NewFutures
+#+DATE:    November 14, 2020
+#+SINCE:   {replace with next tagged release version}
+#+STARTUP: inlineimages nofold
+
+* Table of Contents :TOC_3:noexport:
+- [[#description][Description]]
+  - [[#maintainers][Maintainers]]
+- [[#prerequisites][Prerequisites]]
+- [[#features][Features]]
+- [[#configuration][Configuration]]
+- [[#getting-started][Getting Started]]
+- [[#troubleshooting][Troubleshooting]]
+
+* Description
+# A summary of what this module does.
+
++ A chat bot for credible information on covid
++ Information from a currated list of credible sites like WHO and CDC
++ Uses LUIS within Azure Bot Framework for a more natural chat experience
++ Better than the simple WHO chatbot, good effort WHO
+
+** Maintainers
++ @dkurukula
++ @joeycylee
+
+* Prerequisites
++ Azure Bot Framework
+
+* Features
+# An in-depth list of features, how to use them, and their dependencies.
+
+* Configuration
+# How to configure this module, including common problems and how to address them.
+
+* Getting Started
+Setup Bot Framework and connect to Azure account for local testing
+
+* Troubleshooting
+# Common issues and their solution, or places to look for help.
